@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 🤝 I’m looking for help with **jobs**
+- 🤝 I’m looking for help with **contributing my creative ideas**
 
 - 💬 Ask me about **react, unity, photoshop, typescript etc**
 
