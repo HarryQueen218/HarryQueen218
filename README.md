@@ -1,4 +1,4 @@
-<div style="background: #000000 color=white" >
+<div style="background= '#000000' color='white'" >
 <h1 align="center">Hi 👋, I'm a WorldCodeStar</h1>
 <h3 align="center">A unbelievable developer from the Heaven</h3>
 
